@@ -1,10 +1,11 @@
 # Text File Version 1.1
 # After Effects Shortcut Preferences (modify at your own risk)
 #
-### After Effects CC 2014 keyboard shorcuts modified for Windows with Danish keyboard
-###
+### After Effects CC 2014 (Windows) keyboard shorcuts modified for better use with Danish keyboard
+### 
 ### All shortcuts using Brackets '[', ']', and tilde '~' are not working on Danish keyboards,
-### so I've replaced them with 'æ', 'ø' and '½'. E.g. Trimming a layer in the timeline is done using ALT + Æ / Ø. I have also addded AltGr + Æ / Ø since it is easier to reach single handed.
+### so I've replaced them with 'æ', 'ø' and '½'. E.g. Trimming a layer in the timeline is now done using 'ALT' + 'Æ' / 'ALT' + 'Ø'.
+### I have also addded 'AltGr' + 'Æ' / 'AltGr' + 'Ø' since it is a lot easier to reach with one hand.
 ### Danish key '^¨~' (next to Return key - code Ux00A8) replaces the parts in English shortcuts using '=' (equal sign). E.g. zooming on the timeline.
 #
 # Key Identifiers
