@@ -10,5 +10,7 @@ Danish key '^¨~' (next to Return key - code Ux00A8) replaces the parts in Engli
 Installation
 ============
 1) Go to 'C:\Users\[USERNAME]\AppData\Roaming\Adobe\After Effects\13.0'
+
 2) Perhaps backup the existing 'Adobe After Effects 13.0 Win en_US Shortcuts.txt'
+
 3) Overwritethe file with the one in this repository. 
