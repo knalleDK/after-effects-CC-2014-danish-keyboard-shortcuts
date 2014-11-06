@@ -1,5 +1,5 @@
-after-effects-CC2012-danish-keyboard-shortcuts
-==============================================
+After Effects CC 2014 Danish keyboard shortcuts
+===============================================
 
 After Effects CC 2014 (Windows) keyboard shorcuts modified for better use with Danish keyboard
 
